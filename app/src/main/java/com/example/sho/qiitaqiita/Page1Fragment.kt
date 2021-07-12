@@ -10,7 +10,5 @@ class Page1Fragment : Fragment(R.layout.fragment_page1){
     override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
 
-        }
     }
-
 }

@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.viewpager2.widget.ViewPager2
 import kotlinx.android.synthetic.main.activity_main.*
+import androidx.databinding.DataBindingUtil
+import com.example.sho.qiitaqiita.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
@@ -33,3 +35,4 @@ class MainActivity : AppCompatActivity() {
 
     }
 }
+
